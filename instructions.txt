@@ -1,3 +1,7 @@
+Link to Riona, Eben, Kate Group Project 
+https://github.com/rionazv/practice-using-modules-Riona-V.git
+
+
 Create a New Project Directory:
 1. Use the terminal to create a directory named weather-app.
 2. Navigate into the directory.
@@ -13,7 +17,7 @@ fetch and display data (simulated, no actual API requests). The app will:
 Steps:
 1. Install External Modules:
   ○ Install the yargs module to handle command-line arguments.
-  ○ Install the chalk@4.1.2 (this will require you to use the command (npm install chalk@4.1.2) module to format and color console output.
+  ○ Install the chalk@4.1.2 (this will require you to use the command (npm install chalk@4.1.2) module to format and color console output.)
 
 2. Implement the App:
   ○ Create a file named app.js.
@@ -39,7 +43,8 @@ Expected Deliverables
 1. A functioning weather-app project with:
   ○ app.js implementing the functionality described.
   ○ Properly listed dependencies in package.json.
-  ○ .gitignore file excluding node_modules.
+  ○ .gitignore file excluding node_modules. 
+
 2. A short written response commented within the code, addressing:
   ○ The purpose of package.json in managing dependencies.
   ○ Why node_modules should not be included in version control.
